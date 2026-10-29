@@ -61,5 +61,5 @@ In **2025**, at a professor's request, I recorded a free Git course in Persian (
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" alt="Footer" />
+  <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" />
 </p>
